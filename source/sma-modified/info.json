@@ -1,11 +1,11 @@
 {
-    "author": "Josh.5",
+    "author": "Josh.5 modified by MuadDDib",
     "compatibility": [
         1
     ],
     "description": "Automatically converts media files downloaded by various programs to a standardized format, and tags them with the appropriate metadata from TMDB if the container supports tagging.",
     "icon": "https://raw.githubusercontent.com/Josh5/unmanic.plugin.sma/master/icon.png",
-    "id": "sma",
+    "id": "sma-modified",
     "name": "SMA Conversion/Tagging Automation Script",
     "priorities": {
         "on_library_management_file_test":2,
