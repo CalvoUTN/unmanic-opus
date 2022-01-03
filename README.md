@@ -4,7 +4,7 @@ Unofficial plugins for [Unmanic](https://github.com/Unmanic/unmanic)
 Repo should be:
 
 ```
-https://raw.githubusercontent.com/Unmanic/unmanic-plugins/repo/repo.json
+https://raw.githubusercontent.com/calvoutn/unmanic-plugins/repo/repo.json
 ```
 
 ## Links
